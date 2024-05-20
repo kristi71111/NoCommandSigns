@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "kristi71111.nocommandsigns.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "NoCommandSigns.refmap.json",
+  "mixins": [
+    "SignBlockEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
